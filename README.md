@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Alison H. Harrington
 
-You can use the [editor on GitHub](https://github.com/harringtonah/profile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a PhD candidate in Ecology & Evolutionary Biology at the University of Arizona, working with [Betsy Arnold] (arnoldlab.net).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
