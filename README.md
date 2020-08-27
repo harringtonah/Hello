@@ -6,6 +6,8 @@ I am primarily an evolutionary biologist specializing in microbial ascomycetes, 
 
 
 [Twitter](https://twitter.com/alis_harrington)
+
 [Google Scholar](https://scholar.google.com/citations?user=rhBOcpQAAAAJ&hl=en)
+
 [ResearchGate](https://www.researchgate.net/profile/Alison_Harrington2)
 
